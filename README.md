@@ -1,1 +1,3 @@
-# SD_TSIA_214
+# SD-TSIA 214: Machine Learning for Text Mining
+
+NLP using NLTK. 
